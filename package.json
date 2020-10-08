@@ -4,6 +4,7 @@
   "description": "Netrunr GAPI V3 SDK for nodeJS",
   "main": "index.js",
   "directories": {
+    "example": "examples",
     "lib": "lib"
   },
   "scripts": {
