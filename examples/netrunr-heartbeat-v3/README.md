@@ -48,7 +48,7 @@ This example uses the default setup of the Netrunr gateway:
 
 Run the nodejs application:
 
-`node netrunr-heartbeat.js -h '192.168.8.1' -p 1883 -t 'netrunrfe'`
+`node netrunr-heartbeat.js -h "192.168.8.1" -p 1883 -t "netrunrfe"`
 
 To force exit at any time, use:
 
