@@ -50,7 +50,7 @@ This example uses the default setup of the Netrunr gateway:
 
 Run the nodejs application to collect advertisements for 10 seconds:
 
-`node netrunr-adv-scanner.js -h '192.168.8.1' -p 1883 -t 'netrunrfe' --period=10`
+`node netrunr-adv-scanner.js -h "192.168.8.1" -p 1883 -t "netrunrfe" --period=10`
 
 To force exit at any time, use:
 
