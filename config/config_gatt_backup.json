@@ -1,0 +1,751 @@
+{
+  "GATT": {
+    "S550READER": [
+      {
+        "sh": "0001",
+        "eh": "0008",
+        "uuid": "0118",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0002",
+            "eh": "0004",
+            "vh": "0003",
+            "properties": "20",
+            "uuid": "052a",
+            "descriptors": [
+              {
+                "sh": "0004",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0005",
+            "eh": "0006",
+            "vh": "0006",
+            "properties": "02",
+            "uuid": "2a2b",
+            "descriptors": []
+          },
+          {
+            "sh": "0007",
+            "eh": "0008",
+            "vh": "0008",
+            "properties": "0a",
+            "uuid": "292b",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0009",
+        "eh": "000f",
+        "uuid": "0018",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "000a",
+            "eh": "000b",
+            "vh": "000b",
+            "properties": "0a",
+            "uuid": "002a",
+            "descriptors": []
+          },
+          {
+            "sh": "000c",
+            "eh": "000d",
+            "vh": "000d",
+            "properties": "02",
+            "uuid": "012a",
+            "descriptors": []
+          },
+          {
+            "sh": "000e",
+            "eh": "000f",
+            "vh": "000f",
+            "properties": "02",
+            "uuid": "042a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0010",
+        "eh": "001e",
+        "uuid": "0a18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0011",
+            "eh": "0012",
+            "vh": "0012",
+            "properties": "02",
+            "uuid": "292a",
+            "descriptors": []
+          },
+          {
+            "sh": "0013",
+            "eh": "0014",
+            "vh": "0014",
+            "properties": "02",
+            "uuid": "242a",
+            "descriptors": []
+          },
+          {
+            "sh": "0015",
+            "eh": "0016",
+            "vh": "0016",
+            "properties": "02",
+            "uuid": "252a",
+            "descriptors": []
+          },
+          {
+            "sh": "0017",
+            "eh": "0018",
+            "vh": "0018",
+            "properties": "02",
+            "uuid": "272a",
+            "descriptors": []
+          },
+          {
+            "sh": "0019",
+            "eh": "001a",
+            "vh": "001a",
+            "properties": "02",
+            "uuid": "262a",
+            "descriptors": []
+          },
+          {
+            "sh": "001b",
+            "eh": "001c",
+            "vh": "001c",
+            "properties": "02",
+            "uuid": "282a",
+            "descriptors": []
+          },
+          {
+            "sh": "001d",
+            "eh": "001e",
+            "vh": "001e",
+            "properties": "02",
+            "uuid": "502a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "001f",
+        "eh": "0021",
+        "uuid": "0418",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0020",
+            "eh": "0021",
+            "vh": "0021",
+            "properties": "02",
+            "uuid": "072a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0022",
+        "eh": "0026",
+        "uuid": "0f18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0023",
+            "eh": "0024",
+            "vh": "0024",
+            "properties": "02",
+            "uuid": "192a",
+            "descriptors": []
+          },
+          {
+            "sh": "0025",
+            "eh": "0026",
+            "vh": "0026",
+            "properties": "02",
+            "uuid": "1a2a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0053",
+        "eh": "005b",
+        "uuid": "ca88c58fd616fd9a224ec7f7c985437a",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0054",
+            "eh": "0055",
+            "vh": "0055",
+            "properties": "08",
+            "uuid": "77b5c6845fb50c85924d7495a87c2218",
+            "descriptors": []
+          },
+          {
+            "sh": "0056",
+            "eh": "0058",
+            "vh": "0057",
+            "properties": "22",
+            "uuid": "d667dc6c6a048c99e44e0ffd3f2d3894",
+            "descriptors": [
+              {
+                "sh": "0058",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0059",
+            "eh": "005b",
+            "vh": "005a",
+            "properties": "20",
+            "uuid": "520503447954f7ba8b4f04e69639d323",
+            "descriptors": [
+              {
+                "sh": "005b",
+                "uuid": "0229"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "D600UNBONDED": [
+      {
+        "sh": "0001",
+        "eh": "0008",
+        "uuid": "0118",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0002",
+            "eh": "0004",
+            "vh": "0003",
+            "properties": "20",
+            "uuid": "052a",
+            "descriptors": [
+              {
+                "sh": "0004",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0005",
+            "eh": "0006",
+            "vh": "0006",
+            "properties": "02",
+            "uuid": "2a2b",
+            "descriptors": []
+          },
+          {
+            "sh": "0007",
+            "eh": "0008",
+            "vh": "0008",
+            "properties": "0a",
+            "uuid": "292b",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0009",
+        "eh": "000d",
+        "uuid": "0018",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "000a",
+            "eh": "000b",
+            "vh": "000b",
+            "properties": "0a",
+            "uuid": "002a",
+            "descriptors": []
+          },
+          {
+            "sh": "000c",
+            "eh": "000d",
+            "vh": "000d",
+            "properties": "02",
+            "uuid": "012a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "000e",
+        "eh": "001c",
+        "uuid": "0a18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "000f",
+            "eh": "0010",
+            "vh": "0010",
+            "properties": "02",
+            "uuid": "292a",
+            "descriptors": []
+          },
+          {
+            "sh": "0011",
+            "eh": "0012",
+            "vh": "0012",
+            "properties": "02",
+            "uuid": "242a",
+            "descriptors": []
+          },
+          {
+            "sh": "0013",
+            "eh": "0014",
+            "vh": "0014",
+            "properties": "02",
+            "uuid": "252a",
+            "descriptors": []
+          },
+          {
+            "sh": "0015",
+            "eh": "0016",
+            "vh": "0016",
+            "properties": "02",
+            "uuid": "272a",
+            "descriptors": []
+          },
+          {
+            "sh": "0017",
+            "eh": "0018",
+            "vh": "0018",
+            "properties": "02",
+            "uuid": "262a",
+            "descriptors": []
+          },
+          {
+            "sh": "0019",
+            "eh": "001a",
+            "vh": "001a",
+            "properties": "02",
+            "uuid": "282a",
+            "descriptors": []
+          },
+          {
+            "sh": "001b",
+            "eh": "001c",
+            "vh": "001c",
+            "properties": "02",
+            "uuid": "502a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "001d",
+        "eh": "001f",
+        "uuid": "0f18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "001e",
+            "eh": "001f",
+            "vh": "001f",
+            "properties": "02",
+            "uuid": "192a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0020",
+        "eh": "0027",
+        "uuid": "5b021bc27fb5978d4341957d8e2fb8d7",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0021",
+            "eh": "0024",
+            "vh": "0022",
+            "properties": "28",
+            "uuid": "71991f956aae84aef64dd6d1cdbc38ac",
+            "descriptors": [
+              {
+                "sh": "0023",
+                "uuid": "0229"
+              },
+              {
+                "sh": "0024",
+                "uuid": "0929"
+              }
+            ]
+          },
+          {
+            "sh": "0025",
+            "eh": "0027",
+            "vh": "0026",
+            "properties": "02",
+            "uuid": "64e94af77bbc9bb2934d4b127ebc1091",
+            "descriptors": [
+              {
+                "sh": "0027",
+                "uuid": "0929"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sh": "0054",
+        "eh": "0061",
+        "uuid": "3cf0155f53d7b1acef4ef696b701b56c",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0055",
+            "eh": "0057",
+            "vh": "0056",
+            "properties": "20",
+            "uuid": "20a6150bfc5f78ba134671d8b8813ece",
+            "descriptors": [
+              {
+                "sh": "0057",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0058",
+            "eh": "0059",
+            "vh": "0059",
+            "properties": "08",
+            "uuid": "49bac41f8e4713814746a0bc64233a83",
+            "descriptors": []
+          },
+          {
+            "sh": "005a",
+            "eh": "005c",
+            "vh": "005b",
+            "properties": "22",
+            "uuid": "3c3793921f591da87e4c1218c24b337c",
+            "descriptors": [
+              {
+                "sh": "005c",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "005d",
+            "eh": "005e",
+            "vh": "005e",
+            "properties": "08",
+            "uuid": "9bc0cf780a0577bab140d6edfde9ac91",
+            "descriptors": []
+          },
+          {
+            "sh": "005f",
+            "eh": "0061",
+            "vh": "0060",
+            "properties": "22",
+            "uuid": "bd5a46ae724a40bf1a4c55b8752dcab4",
+            "descriptors": [
+              {
+                "sh": "0061",
+                "uuid": "0229"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sh": "0062",
+        "eh": "ffff",
+        "uuid": "88cac58fd616fd9a224ec7f7c985437a",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0063",
+            "eh": "ffff",
+            "vh": "0064",
+            "properties": "28",
+            "uuid": "73ce8dd2c771a8a0b24b6e3372fc5412",
+            "descriptors": [
+              {
+                "sh": "0065",
+                "uuid": "0229"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "D600BONDED": [
+      {
+        "sh": "0001",
+        "eh": "0008",
+        "uuid": "0118",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0002",
+            "eh": "0004",
+            "vh": "0003",
+            "properties": "20",
+            "uuid": "052a",
+            "descriptors": [
+              {
+                "sh": "0004",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0005",
+            "eh": "0006",
+            "vh": "0006",
+            "properties": "02",
+            "uuid": "2a2b",
+            "descriptors": []
+          },
+          {
+            "sh": "0007",
+            "eh": "0008",
+            "vh": "0008",
+            "properties": "0a",
+            "uuid": "292b",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0009",
+        "eh": "000d",
+        "uuid": "0018",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "000a",
+            "eh": "000b",
+            "vh": "000b",
+            "properties": "0a",
+            "uuid": "002a",
+            "descriptors": []
+          },
+          {
+            "sh": "000c",
+            "eh": "000d",
+            "vh": "000d",
+            "properties": "02",
+            "uuid": "012a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "000e",
+        "eh": "001c",
+        "uuid": "0a18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "000f",
+            "eh": "0010",
+            "vh": "0010",
+            "properties": "02",
+            "uuid": "292a",
+            "descriptors": []
+          },
+          {
+            "sh": "0011",
+            "eh": "0012",
+            "vh": "0012",
+            "properties": "02",
+            "uuid": "242a",
+            "descriptors": []
+          },
+          {
+            "sh": "0013",
+            "eh": "0014",
+            "vh": "0014",
+            "properties": "02",
+            "uuid": "252a",
+            "descriptors": []
+          },
+          {
+            "sh": "0015",
+            "eh": "0016",
+            "vh": "0016",
+            "properties": "02",
+            "uuid": "272a",
+            "descriptors": []
+          },
+          {
+            "sh": "0017",
+            "eh": "0018",
+            "vh": "0018",
+            "properties": "02",
+            "uuid": "262a",
+            "descriptors": []
+          },
+          {
+            "sh": "0019",
+            "eh": "001a",
+            "vh": "001a",
+            "properties": "02",
+            "uuid": "282a",
+            "descriptors": []
+          },
+          {
+            "sh": "001b",
+            "eh": "001c",
+            "vh": "001c",
+            "properties": "02",
+            "uuid": "502a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "001d",
+        "eh": "001f",
+        "uuid": "0f18",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "001e",
+            "eh": "001f",
+            "vh": "001f",
+            "properties": "02",
+            "uuid": "192a",
+            "descriptors": []
+          }
+        ]
+      },
+      {
+        "sh": "0020",
+        "eh": "0027",
+        "uuid": "5b021bc27fb5978d4341957d8e2fb8d7",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0021",
+            "eh": "0024",
+            "vh": "0022",
+            "properties": "28",
+            "uuid": "71991f956aae84aef64dd6d1cdbc38ac",
+            "descriptors": [
+              {
+                "sh": "0023",
+                "uuid": "0229"
+              },
+              {
+                "sh": "0024",
+                "uuid": "0929"
+              }
+            ]
+          },
+          {
+            "sh": "0025",
+            "eh": "0027",
+            "vh": "0026",
+            "properties": "02",
+            "uuid": "64e94af77bbc9bb2934d4b127ebc1091",
+            "descriptors": [
+              {
+                "sh": "0027",
+                "uuid": "0929"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sh": "0042",
+        "eh": "004f",
+        "uuid": "f03c155f53d7b1acef4ef696b701b56c",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0043",
+            "eh": "0045",
+            "vh": "0044",
+            "properties": "20",
+            "uuid": "a620150bfc5f78ba134671d8b8813ece",
+            "descriptors": [
+              {
+                "sh": "0045",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "0046",
+            "eh": "0047",
+            "vh": "0047",
+            "properties": "08",
+            "uuid": "ba49c41f8e4713814746a0bc64233a83",
+            "descriptors": []
+          },
+          {
+            "sh": "0048",
+            "eh": "004a",
+            "vh": "0049",
+            "properties": "22",
+            "uuid": "373c93921f591da87e4c1218c24b337c",
+            "descriptors": [
+              {
+                "sh": "004a",
+                "uuid": "0229"
+              }
+            ]
+          },
+          {
+            "sh": "004b",
+            "eh": "004c",
+            "vh": "004c",
+            "properties": "08",
+            "uuid": "c09bcf780a0577bab140d6edfde9ac91",
+            "descriptors": []
+          },
+          {
+            "sh": "004d",
+            "eh": "004f",
+            "vh": "004e",
+            "properties": "22",
+            "uuid": "5abd46ae724a40bf1a4c55b8752dcab4",
+            "descriptors": [
+              {
+                "sh": "004f",
+                "uuid": "0229"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sh": "0050",
+        "eh": "0053",
+        "uuid": "ca88c58fd616fd9a224ec7f7c985437a",
+        "primary": 1,
+        "characteristics": [
+          {
+            "sh": "0051",
+            "eh": "0053",
+            "vh": "0052",
+            "properties": "28",
+            "uuid": "ce738dd2c771a8a0b24b6e3372fc5412",
+            "descriptors": [
+              {
+                "sh": "0053",
+                "uuid": "0229"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
